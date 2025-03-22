@@ -1,0 +1,16 @@
+department_id,dept_name,head
+1,"General Medicine",4
+2,Surgery,7
+3,Psychiatry,9
+4,Cardiology,13
+5,Nephrology,10
+6,Urology,35
+7,Neurology,30
+8,Physiotherapy,27
+9,ENT,15
+10,Pulmonology,5
+11,Gastroenterology,18
+12,Gynecology,12
+13,Neonatal,22
+14,"Critical care",25
+15,Orthopedics,21
