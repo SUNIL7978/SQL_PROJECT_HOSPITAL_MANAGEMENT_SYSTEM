@@ -1,0 +1,40 @@
+Diagnosis,Prescription,Patient_ID,Physician_id
+Hypertension,Lisinopril,1,2
+Arthritis,"Naproxen & Aspirin",4,17
+"Anxiety Disorder",Fluoxetine,3,9
+"Muscular Dystrophy",Corticosteroids,5,24
+Asthma,Albuterol,2,2
+"IgA Nephropathy",Budesonide,30,10
+"Chronic Pain",Tramadol,6,7
+"Acoustic neuroma","Radiation therapy",7,13
+"Septic Shock",Corticosteroids:Hydrocortisone,8,25
+"Kidney Stones","Ibuprofen, Acetaminophen",9,28
+"Parkinsons Disease,Pramipexole",Ropinirole,10,19
+"Chronic Obstructive Pulmonary Disease (COPD)","Fluticasone,Budesonide",11,5
+"Neonatal Jaundice",Phototherapy,12,33
+"Chronic Pain",Tramadol,13,3
+Gallstones,Cholecystectomy,14,18
+"Type 1 Diabetes",Insulin,15,6
+Migraine,Triptans,16,19
+Tonsillitis,"Penicillin VK",17,15
+"Inflammatory Bowel Disease",Mesalamine,18,26
+"Coronary Artery Disease",Aspirin,19,6
+"Chronic Obstructive Pulmonary Disease (COPD)",Tiotropium,20,20
+"Urinary Tract Infection (UTI)",Nitrofurantoin,21,28
+"Attention Deficit Disorder",Dextroamphetamine,22,6
+"Traumatic Brain Injury (TBI)","Propofol,Midazolam",23,25
+"Neuropathic Pain",Amitriptyline,24,19
+"Chronic Obstructive Pulmonary Disease","Breathing exercises",25,24
+"Overactive Bladder",Oxybutynin,26,28
+"Sports Injuries","muscle relaxants",27,27
+Psoriasis,Methotrexate,28,6
+"Respiratory Distress Syndrome",Beractant,29,33
+"Coronavirus Disease 2019 (COVID-191)",Remdesivir,31,5
+"Chronic Gastritis",Pantoprazole,32,18
+"Generalized Anxiety Disorder (GAD)",Buspirone,33,2
+Sinusitis,Acetaminophen,34,13
+"Burn Injuries",Acetaminophen,35,20
+Osteoporosis,Calcitonin,36,21
+Depression,Fluoxetine,37,9
+"Myasthenia Gravis",Pyridostigmine,38,30
+"Otitis Media",Amoxicillin,39,15

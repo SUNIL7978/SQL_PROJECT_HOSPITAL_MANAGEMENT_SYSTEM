@@ -1,0 +1,21 @@
+code,name,cost
+1,X-ray-Chest,1000
+2,X-ray-Abdomen,1200
+3,X-ray-Skull,900
+4,X-ray-Spine,1500
+5,MRI-Brain,5000
+6,MRI-Spine,6000
+7,"CT Scan-Abdomen",3000
+8,"CT Scan-Pelvis",3500
+9,Ultrasound-Abdomen,700
+10,Ultrasound-Obstetric,2500
+11,Mammogram,1200
+12,"Bone Density Scan (DEXA)",1800
+13,"PET-CT Scan",5000
+14,"Fluoroscopy - Upper GI Series",7000
+15,"Fluoroscopy - Barium Enema",4500
+16,"Nuclear Medicine - Thyroid Scan",450
+17,"Angiography - Cerebral",800
+18,"Interventional Radiology - Biopsy",700
+19,X-ray-Extremities,300
+20,MRI-Knee,4000
