@@ -1,8 +1,8 @@
 # SQL_PROJECT_HOSPITAL_MANAGEMENT_SYSTEM
 
-  SQL project to analyze Hospital data
+ SQL project to analyze Hospital data
   
-  Hospitals are the most important part of our lives, trying to provide the best medical facilities to people suffering from various type of illness, which may be due to change in climate conditions, increased work-load, emotional trauma stress etc. It is very much difficult for the hospital to maintain its day-to-day activities and records manually. That is why a database is required to keep records of all type of activities of a hospital.
+Hospitals are the most important part of our lives, trying to provide the best medical facilities to people suffering from various type of illness, which may be due to change in climate conditions, increased work-load, emotional trauma stress etc. It is very much difficult for the hospital to maintain its day-to-day activities and records manually. That is why a database is required to keep records of all type of activities of a hospital.
 
   Hospitals interact with a lot of people in a day and there are various activities involved in day to day operations of hospitals, for example managing doctor schedules,managing patient diagnoses, managing medical histories of patients, etc. The aim of this project is to show how data related to these tasks can be made easier to manage using databases.
 
